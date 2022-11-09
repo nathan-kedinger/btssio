@@ -1,0 +1,67 @@
+javascript :	- up logo
+			- qualities
+			- img zoom
+			- form
+
+mediaquery :ok	- responsive
+
+top menu : 	ok	- add picture mail
+		ok	- add github
+			- connected encart and create account
+
+aside : 		- analyse of user
+			- bulle au survol des mise à jours à faire
+			- lien vers les mise à jours faite (ou bulle)
+			- write maj
+
+footer : 	ok	- logo go-up
+
+homepage : 		- perfect the "qualities"
+			- make an alternate with competences front/competences back/qualities -> link to page competences
+		ok	- intégrer logo js html...
+		ok	- créer animation compétences
+			- créer visuel qualité professionnelles
+
+CV : 		ok	- recadrer la page
+
+realisations : ok	- ajouter site wix
+			- ajouter prototypes d'autres sites
+			- ajouter code autres langages
+			- ajouter site Bastien
+
+competences :ok	- write description
+		ok	- design something
+
+veilles :	!	- create classes with different watches
+			- create admin page to add bdd
+			- link to a table to automaticaly add element
+			- lire /partager for each article
+
+bts-sio :	o	- write a simple description of the diploma
+			- write a description of courses?
+
+contact : 	ok	- connect to the bdd
+		ok	- layout
+		ok	- securised the form
+			- conditions générales
+
+
+bdd : 	ok	- make it work
+			-création BDD users
+
+back :		- page de conexion bdd
+			- accès admin avec page : 	de récupération des données 
+								de gestion des messages reçus
+								analyse des données			
+			-mise en place de cookies
+			- bdd d'analyse
+ 
+			- english version
+		!	- gestion of exceptions 
+		ok	- drop the site on server
+		!	- mask error messages
+			- retour d'erreur
+
+GitHub :	ok	- drop the site there
+		!!	- registre everyday
+
