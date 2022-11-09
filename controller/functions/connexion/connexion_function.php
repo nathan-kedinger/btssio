@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once '../../bdd/connexion_bdd_local.php'; 
+require_once '../../../bdd/connexion_bdd_inline.php'; 
 
 if(isset($_POST['username']) && (isset($_POST ['password'])))
 {

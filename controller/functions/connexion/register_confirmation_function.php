@@ -1,5 +1,5 @@
 <?php
-	require_once '../../bdd/connexion_bdd_local.php'; 
+	require_once '../../../bdd/connexion_bdd_inline.php'; 
     
     if(isset($_GET['username'], $_GET['cle']) AND !empty($_GET['username']) AND !empty($_GET['cle'])){
     $username = htmlspecialchars(urldecode($_GET['username']));

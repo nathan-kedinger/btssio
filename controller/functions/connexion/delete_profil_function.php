@@ -1,5 +1,5 @@
 <?php
-require_once '../../bdd/connexion_bdd_local.php'; 
+require_once '../../../bdd/connexion_bdd_inline.php'; 
 
 
 if(isset($_SESSION['username'])){

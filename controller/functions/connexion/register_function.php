@@ -1,5 +1,5 @@
 <?php
-require_once '../../bdd/connexion_bdd_local.php'; 
+require_once '../../../bdd/connexion_bdd_inline.php'; 
 
 // Add the users informations
 try{

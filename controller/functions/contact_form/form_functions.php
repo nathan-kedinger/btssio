@@ -31,7 +31,7 @@
             //send the buildContactMessage return in bdd     
             function writeInBdd()
             {
-                require_once '../controller/bdd/connexion_bdd_local.php'; 
+                require_once '../../../../bdd/connexion_bdd_inline.php'; 
                     
                 try{
                     //connexion BDD
