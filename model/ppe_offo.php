@@ -31,13 +31,17 @@ require_once '../view/content/header.php';?>
                     Android Studio<br>
                     PC (Windows 11) 
                     </p>
-                <h3>Gestion du versioning :</h3>  
+                <h3>Gestion du versioning :</h3>   
                     <p>
-                    Github : <a href="https://github.com/nathan-kedinger/offo">Dépot GitHub </a>
+                    Github : <a class="lien_ppe" href="https://github.com/nathan-kedinger/offo">Dépot GitHub </a>
                     </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>
-                    Le projet de cette application a été remplacé par le projet Vooov, présenté également dans les travaux pratiques réalisés. Il a été remplacé car la partie donnée fonctionnait avec Firebase de google. Une API de gestion de base de données en NoSQL. C’était problématique pour répondre aux besoins scolaires du langage SQL.<br><br>
+                    Le projet de cette application a été remplacé par le projet Vooov, 
+                    présenté également dans les travaux pratiques réalisés. Il a été 
+                    remplacé car la partie donnée fonctionnait avec Firebase de google. 
+                    Une API de gestion de base de données en NoSQL. C’était problématique 
+                    pour répondre aux besoins scolaires d'utilisation du langage SQL.<br><br>
                     Pour cette application, je me suis auto-formé au langage Kotlin et à l’utilisation de l’IDE intelliJ avec Android Studio.
                     </p>
                 <h3>Les connaissance clé débloquées par ce projet sont :</h3>  
@@ -50,7 +54,7 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_offo.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/bdd_firebase.png"></a>Capture d'écran Firebase</li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/bdd_firebase.png">Capture d'écran Firebase</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/certificat_kotlin.jpg">Certificat de formation Kotlin</a></li>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/offo/tree/main/app/src/main">Repository GitHub</a></li>
                     </ul>

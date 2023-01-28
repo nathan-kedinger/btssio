@@ -10,7 +10,8 @@ require_once '../view/content/header.php';?>
             <h2>Site web La super ferme</h2>  
                 <h3>Contexte : </h3>  
                     <p>
-                    L’entreprise de maraichage en sol vivant et l’association Canton Sème m’ont demandé de réaliser leur site web pour accroitre leur visibilité en ligne et permettre la diffusion d’évènements et de dates de formation.
+                    L’entreprise "La super ferme", de maraichage en sol vivant, et l’association Canton Sème, m’ont demandé de réaliser leur site web.
+                    Ils souhaitent accroitre leur visibilité en ligne et permettre la diffusion d’évènements et de dates de formation.
                     </p>
                 <h3>Objectif : </h3>  
                     <p>
@@ -28,17 +29,21 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Environnement de développement :</h3>  
                     <p>
-                    PC (Windows 11)
-                    VSCode
+                    PC (Windows 11)<br>
+                    VSCode<br>
                     Symfony6
                     </p>
                 <h3>Gestion du versioning :</h3>  
                     <p>
-                    Github : <a href="https://github.com/nathan-kedinger/super_ferme">Dépot GitHub la super ferme</a>
+                    Github : <a class="lien_ppe" href="https://github.com/nathan-kedinger/super_ferme">Dépot GitHub la super ferme</a>
                     </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>
-
+                    Prise de commande du site prise des besoins client. Création 
+                    d’un site web responsive, aux couleurs de l’association. Création 
+                    d’un BackOffice permettant la plus d’autonomie possible au client. 
+                    Maintenance et hébergement du service. Amélioration de la visibilité 
+                    de l’organisation par SEO.
                     </p>
                 <h3>Les connaissance clé débloquées par ce projet sont :</h3>  
                     <p>
@@ -51,7 +56,7 @@ require_once '../view/content/header.php';?>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/cahier_des_charges_superferme.png">Cahier des charges client</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/meta_donnees_super_ferme.png">Exemple de meta données de référencement</a></li>
                         <li><a class="lien_ppe" href="https://la-super-ferme.fr/">Preuve de déploiement du site</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/backoffice_superferme.png">Capture d'écran du Backoffice</a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/backoffice_super_ferme.png">Capture d'écran du Backoffice</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/réservation_paniers.png">Page de réservation de paniers</a></li>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/super_ferme">Lien vers le repository GitHub du site</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/confirmation_newsletter.png">Capture d'écran de confirmation à l'inscription à une newsletter</a></li>

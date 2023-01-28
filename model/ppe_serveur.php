@@ -29,10 +29,6 @@ require_once '../view/content/header.php';?>
                     PC (Windows 11)<br>
                     Ubuntun
                     </p>
-                <h3>Gestion du versioning :</h3>  
-                    <p>
-                    Github : <a href="">Dépot GitHub </a>
-                    </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>
                     Déploiement d’un serveur VPS privé hébergé par hostinger. Déploiement de l’outil CyberPanel sur Ubuntu. Approfondissement des connaissances sur le fonctionnement du réseau, du stockage et des échanges web.<br>

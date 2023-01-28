@@ -33,7 +33,7 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Gestion du versioning :</h3>  
                     <p>
-                    Github : <strong><a href="https://github.com/nathan-kedinger/LBT-Menuiserie">Dépot GitHub LBT-Menuiserie</a></strong>
+                    Github : <a class="lien_ppe" href="https://github.com/nathan-kedinger/LBT-Menuiserie">Dépot GitHub LBT-Menuiserie</a>
                     </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>

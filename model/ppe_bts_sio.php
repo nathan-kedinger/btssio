@@ -33,7 +33,7 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Gestion du versioning :</h3>  
                     <p>
-                    Github : <a href="https://github.com/nathan-kedinger/btssio">Dépot GitHub BTS-sio</a>
+                    Github : <a class="lien_ppe" href="https://github.com/nathan-kedinger/btssio">Dépot GitHub BTS-sio</a>
                     </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>
@@ -57,7 +57,7 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_bts_sio.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="../view/ressources/tableau_ppe/tab_bts_sio.png">Diagramme MCD</a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/mcd_bts_sio.png">Diagramme MCD</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/test_unitaire_bts_sio.png">Exemple de test unitaire.</a><p> Ici le problème provient des identifiants de connexion. Cela se produit car le site est déjà en production et les identifiants sont réglés sur la BDD du serveur.</p></li>
                         <li><a class="lien_ppe" href="https://www.bts-sio-kedinger.fr/model/homepage.php">Preuve de déploiement</a></li>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/btssio">Le code source</a></li>

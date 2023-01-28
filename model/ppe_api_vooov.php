@@ -10,7 +10,7 @@ require_once '../view/content/header.php';?>
             <h2>Conception d’une API de gestion de base de données</h2>  
                 <h3>Contexte : </h3>  
                     <p>
-                    Dans le cadre des PPE nous avons eu pour consigne de réaliser un groupe d’application comprenant un site web, une application mobile et une application lourde. Afin de mettre en lien les données de ces trois applications, il est nécessaire de construire une API.
+                    Dans le cadre des PPE nous avons eu pour consigne de réaliser un groupe d’applications comprenant un site web, une application mobile et une application lourde. Afin de mettre en lien les données de ces trois applications, il est nécessaire de construire une API.
                     </p>
                 <h3>Objectif : </h3>  
                     <p>
@@ -26,7 +26,7 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Utilisateurs : </h3>  
                     <p>
-                    Pas d’accès direct, mais donne accès aux données aux applications visées.
+                    Pas d’accès direct, mais permet l'accès aux données, des applications visées.
                     </p>
                 <h3>Environnement de développement :</h3>  
                     <p>
@@ -35,7 +35,7 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Gestion du versioning :</h3>  
                     <p>
-                    Github : <a href="https://github.com/nathan-kedinger/api_vooov">Dépot GitHub </a>
+                    Github : <a class="lien_ppe"  href="https://github.com/nathan-kedinger/api_vooov">Dépot GitHub </a>
                     </p>
                 <h3>Détail des tâches effectuées :</h3>  
                     <p>
@@ -59,7 +59,7 @@ require_once '../view/content/header.php';?>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/mcd_api.png">Diagramme MCD</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/files_cyberpanel_api.png">Capture d'écran de dossier sur serveur</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/postman.png">Capture d'un test de requête http sur Postman</a></li>
-                        <li><a class="lien_ppe" href="../html/ressources/pages.html">Documentation Doxygen</a></li>
+                        <li><a class="lien_ppe" href="../html/pages.html">Documentation Doxygen</a></li>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/api_vooov"></a><p></p></li>
                     </ul>
         </article>
