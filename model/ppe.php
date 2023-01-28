@@ -11,10 +11,22 @@ require_once '../view/content/header.php';?>
             <h2>Réalisations</h2>
             <p>Bienvenus dans cet espace dédié à mes réalisations. 
                 C'est ici que j'afficherai mes différentes expériences, sites terminés, à venir, prototype, exercices de langages et alghoritmique...<br><br>
-                Vous pouvez trouver ci-joint l'annexe 6.1 répertoriant mes expériences professionnelles ainsi que les compétences qu'elles ont demandé 
+                Vous pouvez retrouver le détail de chaques réalisation via les boutons "Documentation épeuve E4" au bas de chacun des articles suivants.<br>
+                De plus, vous pouvez trouver ci-joint l'annexe 6.1 répertoriant mes expériences professionnelles ainsi que les compétences impliquées 
                 à mettre en œuvre </p><br>
             <embed class="cv" src='../view/ressources/ppe/annexe_e6-1.pdf' width="1000" height="1000" type="application/pdf" alt ="CV">
                 
+        </article>
+        <article>
+        <a href="ppe_api_vooov.php"><img class="realisation"  src="../view/ressources/images_realisations/superFerme.png"></a><br>
+            <p>Deuxième réalisation de site pour un client. L'ensemble du site a été réaliser via le framework Symfony. 
+                Il comprend un backoffice de gestion des images et des utilisateurs par le client. Ses clients ont la possibilité de 
+                souscrire à un abonnement pour des paniers à venir récupérer toutes les semaines. Vous pouvez vous rendre 
+                sur le site via le lien suivant : <a href="https://la-super-ferme.fr">www.la-super-ferme.fr</a> <br>
+                n'hésitez pas à rendre visite à <a href="https://la-super-ferme.fr">La Super Ferme</a>, Ils cultivent de supers légumes
+                et réalisent des formations indispensable pour tous les jardiniers en devenir.
+            </p>
+            <button><a href="ppe_api_vooov.php">Documentation épeuve E4</a></button>
         </article>
         <article>
         <a href="https://la-super-ferme.fr"><img class="realisation"  src="../view/ressources/images_realisations/superFerme.png"></a><br>
@@ -25,7 +37,40 @@ require_once '../view/content/header.php';?>
                 n'hésitez pas à rendre visite à <a href="https://la-super-ferme.fr">La Super Ferme</a>, Ils cultivent de supers légumes
                 et réalisent des formations indispensable pour tous les jardiniers en devenir.
             </p>
-            <button><a href="">Documentation épeuve E4</a></button>
+            <button><a href="ppe_super_ferme.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
+        <a href="https://la-super-ferme.fr"><img class="realisation"  src="../view/ressources/images_realisations/superFerme.png"></a><br>
+            <p>Deuxième réalisation de site pour un client. L'ensemble du site a été réaliser via le framework Symfony. 
+                Il comprend un backoffice de gestion des images et des utilisateurs par le client. Ses clients ont la possibilité de 
+                souscrire à un abonnement pour des paniers à venir récupérer toutes les semaines. Vous pouvez vous rendre 
+                sur le site via le lien suivant : <a href="https://la-super-ferme.fr">www.la-super-ferme.fr</a> <br>
+                n'hésitez pas à rendre visite à <a href="https://la-super-ferme.fr">La Super Ferme</a>, Ils cultivent de supers légumes
+                et réalisent des formations indispensable pour tous les jardiniers en devenir.
+            </p>
+            <button><a href="ppe_super_ferme.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
+        <a href="https://la-super-ferme.fr"><img class="realisation"  src="../view/ressources/images_realisations/superFerme.png"></a><br>
+            <p>Deuxième réalisation de site pour un client. L'ensemble du site a été réaliser via le framework Symfony. 
+                Il comprend un backoffice de gestion des images et des utilisateurs par le client. Ses clients ont la possibilité de 
+                souscrire à un abonnement pour des paniers à venir récupérer toutes les semaines. Vous pouvez vous rendre 
+                sur le site via le lien suivant : <a href="https://la-super-ferme.fr">www.la-super-ferme.fr</a> <br>
+                n'hésitez pas à rendre visite à <a href="https://la-super-ferme.fr">La Super Ferme</a>, Ils cultivent de supers légumes
+                et réalisent des formations indispensable pour tous les jardiniers en devenir.
+            </p>
+            <button><a href="ppe_super_ferme.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
+        <a href="https://la-super-ferme.fr"><img class="realisation"  src="../view/ressources/images_realisations/superFerme.png"></a><br>
+            <p>Deuxième réalisation de site pour un client. L'ensemble du site a été réaliser via le framework Symfony. 
+                Il comprend un backoffice de gestion des images et des utilisateurs par le client. Ses clients ont la possibilité de 
+                souscrire à un abonnement pour des paniers à venir récupérer toutes les semaines. Vous pouvez vous rendre 
+                sur le site via le lien suivant : <a href="https://la-super-ferme.fr">www.la-super-ferme.fr</a> <br>
+                n'hésitez pas à rendre visite à <a href="https://la-super-ferme.fr">La Super Ferme</a>, Ils cultivent de supers légumes
+                et réalisent des formations indispensable pour tous les jardiniers en devenir.
+            </p>
+            <button><a href="ppe_super_ferme.php">Documentation épeuve E4</a></button>
         </article>
         <article>
         <a href="https://www.lbt-menuiserie.fr"><img class="realisation"  src="../view/ressources/images_realisations/lbtMenuiserie.png"></a><br>
