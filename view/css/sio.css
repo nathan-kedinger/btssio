@@ -359,6 +359,17 @@ display: block;
     border-radius: 8px;
     background: linear-gradient(0.25turn,rgb(10, 195, 10),rgb(2, 156, 2), green,rgb(3, 99, 3),  red);
 }
+/*ppe*/
+
+.tableau_ppe{
+    width: 40vw;
+}
+
+a.lien_ppe{
+    color: rgb(39, 77, 231)
+}
+/*ppe*/
+
 /*qualities*/
 
 .qualities{

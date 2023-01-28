@@ -51,7 +51,7 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_serveur.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/mcd_bts_sio.png"></a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/terminal_putty.png">Catpure d'écran PuTTY</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/cyberpanel.png">capture d'écran du panneau d'accueil de CyberPanel</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/connection_logs.png">Captude d'écran des logs de connexion</a></li>
                     </ul>
