@@ -48,7 +48,7 @@ require_once '../view/content/header.php';?>
                 <h3>Les connaissance clé débloquées par ce projet sont :</h3>  
                     <p>
                     Cette expérience m’a permis de prendre en main la bibliothèque Retrofit. Elle m'a permis de manipuler des 
-                    données entre l'application et le serveur. Elle m'a également permis de créer une base pour l'application Vooov.
+                    données entre l'application et le serveur. Elle m'a également permis de créer une base pour l'application Vooov.<br>
 
                     -	Bibliothèque Retrofit<br>
                     -	Utilisation des RecyclerView<br>
@@ -61,8 +61,8 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_test_api.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/api_vooov"></a><p></p></li>
-                        <li><a class="lien_ppe" href="ppe_vooov.php"></a><p></p></li>
+                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/api_vooov"></a><p>Lien GitHub</p></li>
+                        <li><a class="lien_ppe" href="ppe_vooov.php"></a><p>Projet Vooov</p></li>
                     </ul>
         </article>
 
