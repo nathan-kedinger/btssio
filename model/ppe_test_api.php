@@ -61,8 +61,8 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_test_api.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/api_vooov"></a><p>Lien GitHub</p></li>
-                        <li><a class="lien_ppe" href="ppe_vooov.php"></a><p>Projet Vooov</p></li>
+                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/api_vooov"><p>Lien GitHub</p></a></li>
+                        <li><a class="lien_ppe" href="ppe_vooov.php"><p>Projet Vooov</p></a></li>
                     </ul>
         </article>
 
