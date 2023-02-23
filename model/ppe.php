@@ -67,7 +67,7 @@ require_once '../view/content/header.php';?>
         </article>
         <article>
             <h3>Application Android test CRUD pour l'API Vooov</h3>
-                <a href="ppe_api_vooov.php"><img class="realisation"  src=""></a><br>
+                <a href="ppe_test_api.php"><img class="realisation"  src=""></a><br>
                 <p>Dans la continuité du projet PPE nous avons eu pour consigne de 
                     réaliser un groupe d’applications comprenant un site 
                     web, une application mobile et une application lourde. 
@@ -75,7 +75,7 @@ require_once '../view/content/header.php';?>
                     il est nécessaire de construire une API. Cette application a été
                     créé dans le but de tester l'API sur un mobile.
                 </p><br>
-                <button><a href="ppe_api_vooov.php">Documentation épeuve E4</a></button>
+                <button><a href="ppe_test_api.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Application Android OFFO</h3>

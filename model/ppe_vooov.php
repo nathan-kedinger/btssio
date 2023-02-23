@@ -45,10 +45,10 @@ require_once '../view/content/header.php';?>
                 <h3>Les connaissance clé débloquées par ce projet sont :</h3>  
                     <p>
                     Cette expérience m’a permis de prendre en main le langage Kotlin et l'environnement de développement Android Studio. 
-                    J'ai également pu approfondir ma maitrise de bibliothèque Retrofit, des outils MediaRecorder et MediaPlayer,
+                    J'ai également pu approfondir ma maitrise de la bibliothèque Retrofit, des outils MediaRecorder et MediaPlayer,
                     les coroutines... Elle m'a permis de manipuler des données entre l'application et le serveur. 
-                    Vous pouvez retrouver une explication plus approfondie du projet à la page précédente dans l'encart PDF
-                    en haut de page. 
+                    Vous pouvez retrouver une explication plus approfondie du projet, à la page précédente dans l'encart PDF
+                    en haut de page. <br>
 
                     -	Bibliothèque Retrofit<br>
                     -	Utilisation des RecyclerView<br>
