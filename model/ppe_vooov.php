@@ -63,8 +63,9 @@ require_once '../view/content/header.php';?>
                     <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_vooov.png">
                 <h3>Liens des productions</h3>
                     <ul>
-                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/Vooov"></a><p></p></li>
-                        <li><a class="lien_ppe" href="ppe_vooov.php"></a><p></p></li>
+                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/Vooov"><p>Lien GitHub</p></a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/trello.png"><p>Projet Trello</p></a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/screen_vooov.png"><p>Visuel application</p></a></li>
                     </ul>
         </article>
 
