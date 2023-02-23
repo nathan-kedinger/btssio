@@ -50,12 +50,13 @@ require_once '../view/content/header.php';?>
                     Ce site m’a parmi de maitriser la bibliothèque PHP Symfony 6 ainsi que la bibliothèque de mise en forme Bootstrap. J’ai pu constater l’accélération énorme et la propreté du code apporté par la bibliothèque Symfony. Cette réalisation m’a également permis de bien comprendre le fonctionnement MVC qui participe grandement à la clarté et la maintenabilité du code, ainsi qu’à sa sécurité.
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_lbtMenuiserie.png">
+                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_super_ferme.png">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/cahier_des_charges_superferme.png">Cahier des charges client</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/meta_donnees_super_ferme.png">Exemple de meta données de référencement</a></li>
                         <li><a class="lien_ppe" href="https://la-super-ferme.fr/">Preuve de déploiement du site</a></li>
+                        <li><a class="lien_ppe" href="https://la-super-ferme.fr/nous-contacter">Lien vers un formulaire de contact</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/backoffice_super_ferme.png">Capture d'écran du Backoffice</a></li>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/réservation_paniers.png">Page de réservation de paniers</a></li>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/super_ferme">Lien vers le repository GitHub du site</a></li>

@@ -24,6 +24,16 @@ require_once '../view/content/header.php';?>
                 
         </article>
         <article>
+            <h3>Application Android Vooov</h3>
+                <a href="ppe_vooov.php"><img class="realisation"  src="../view/ressources/ppe/screen_vooov.jpg"></a><br>
+                <p>Cette application a pour but de répondre à une demande client d’un site de voix-off. 
+                    Ce projet est l'application modifié de l'application offo. Elle est plus poussé en terme de fonctionnalités
+                    et utilise une API propre plutôt que l'API Firebase. Elle fonctionne comme un réseau social vocal. Il est possible de communiquer par 
+                    message entre les utilisateurs, de se connecter et d'écouter les enregistrements des autres utilisateurs.
+                </p><br>
+                <button><a href="ppe_vooov.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
             <h3>API Vooov</h3>
                 <a href="ppe_api_vooov.php"><img class="realisation"  src=""></a><br>
                 <p>Dans le cadre des PPE nous avons eu pour consigne de réaliser un groupe d’applications comprenant un site web, 
@@ -54,6 +64,18 @@ require_once '../view/content/header.php';?>
                     pour l’hébergement des applications Vooov.
                 </p><br>
                 <button><a href="ppe_serveur.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
+            <h3>Application Android test CRUD pour l'API Vooov</h3>
+                <a href="ppe_api_vooov.php"><img class="realisation"  src=""></a><br>
+                <p>Dans la continuité du projet PPE nous avons eu pour consigne de 
+                    réaliser un groupe d’applications comprenant un site 
+                    web, une application mobile et une application lourde. 
+                    Afin de mettre en lien les données de ces trois applications, 
+                    il est nécessaire de construire une API. Cette application a été
+                    créé dans le but de tester l'API sur un mobile.
+                </p><br>
+                <button><a href="ppe_api_vooov.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Application Android OFFO</h3>
@@ -88,6 +110,14 @@ require_once '../view/content/header.php';?>
                 </p><br>
                 <button><a href="ppe_lbtMenuiserie.php">Documentation épeuve E4</a></button>
 
+        </article>
+        <article>
+        <h3>Stage dans l'entreprise Exeed</h3>
+                <a href="ppe_serveur.php"><img class="realisation"  src=""></a><br>
+                <p>Réalisation d'un stage en entreprise. participation à différents projet. Réalisation de rédaction,
+                    déploiement sur serveur hostinger et utilisation de divers widgets Wordpress.
+                </p><br>
+                <button><a href="ppe_exeed.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Site Web réalisé sur CMS</h3>
