@@ -40,8 +40,8 @@ require_once '../view/content/header.php';?>
                 </p>
         </article>
         <article>
-            <h2 href ="/https://www.pearltrees.com/natked/technologique-intelligence/id64044440">Veille Technologique - Intelligence Artificielle</h2>
-            <a href="/https://www.pearltrees.com/natked/technologique-intelligence/id64044440"><img src="../view/ressources/images_watches/ia.png"></a>
+            <h2 href ="https://www.pearltrees.com/natked/technologique-intelligence/id64044440">Veille Technologique - Intelligence Artificielle</h2>
+            <a href="https://www.pearltrees.com/natked/technologique-intelligence/id64044440"><img src="../view/ressources/images_watches/ia.png"></a>
         </article>
         <article>
             <h2 href ="./watch_rgpd.php">Veille Juridique - RGPD</h2>
