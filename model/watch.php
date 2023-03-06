@@ -41,11 +41,11 @@ require_once '../view/content/header.php';?>
         </article>
         <article>
             <h2 href ="./watch_ia.php">Veille Technologique - Intelligence Artificielle</h2>
-            <a href="./watch_ia.php"><img src="../view/ressources/images_watches/ia.png"></a>
+            <a href="./https://www.pearltrees.com/natked/technologique-intelligence/id64044440"><img src="../view/ressources/images_watches/ia.png"></a>
         </article>
         <article>
             <h2 href ="./watch_rgpd.php">Veille Juridique - RGPD</h2>
-            <a href="./watch_rgpd.php"><img src="../view/ressources/images_watches/rgpd.png"></a>
+            <a href="watch_rgpd.php"><img src="../view/ressources/images_watches/rgpd.png"></a>
             
         </article>
     </main>
