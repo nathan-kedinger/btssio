@@ -1,6 +1,6 @@
 <?php 
 require '../view/front_const/header_const.php';
- $pageTitle = REALISATIONS;
+ $pageTitle = EPREUVEE4;
 require_once '../view/content/head.php';
 require_once '../view/content/header.php';?>
 
@@ -10,14 +10,9 @@ require_once '../view/content/header.php';?>
         <article>
             <h2>Réalisations</h2>
             <p>Bienvenus dans cet espace dédié à mes réalisations. 
-                C'est ici que j'afficherai mes différentes expériences, sites terminés, à venir, prototype, exercices de langages et alghoritmique...<br><br>
-                <h3>Épreuve E5</h3>
-                La première partie de cette page est consacrée à l'épreuve E5. Vous pourrez trouver un dossier PDF téléchargeable sur les trois dossiers qui 
-                seront présentés pour l'épreuve. Vous pourrez ensuite retrouver l'ensemble des réalisations détaillées concernant l'épreuve E4.<br><br>
-                Dossier de l'épreuve E5 au format PDF :
-            <embed class="cv" src='../view/ressources/ppe/Projets_PPE.pdf' width="1000" height="1000" type="application/pdf" alt ="Projet PPE">
+                C'est ici que j'afficherai mes différentes expériences, sites terminés, à venir, prototypes, exercices de langages et alghoritmiques...<br><br>
                 <h3>Épreuve E4</h3>
-                Vous pourez retrouver le détail de chaques réalisation via les boutons "Documentation épeuve E4" au bas de chacun des articles suivants.<br><br>
+                Vous pourez retrouver le détail de chaques réalisation via les <strong>boutons "Documentation épeuve E4"</strong> au bas de chacun des articles suivants.<br><br>
                 De plus, vous pouvez trouver ci-joint l'annexe 6.1 répertoriant mes expériences professionnelles ainsi que les compétences impliquées 
                 à mettre en œuvre : </p><br>
             <embed class="cv" src='../view/ressources/ppe/annexe_e6-1.pdf' width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">

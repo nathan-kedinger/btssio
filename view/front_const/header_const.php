@@ -2,6 +2,8 @@
 define('HEADER_TITLE', 'KEDINGER NATHAN');
 define('HOMEPAGE', 'ACCUEIL');
 define('BTS', 'BTS-SIO');
+define('EPREUVEE5', 'EPREUVE E5');
+define('EPREUVEE4', 'EPREUVE E4');
 define('REALISATIONS', 'REALISATIONS');
 define('CV', 'CV');
 define('CONTACT', 'CONTACT');
@@ -22,6 +24,8 @@ $headerTitle = HEADER_TITLE;
 $homepage = HOMEPAGE;
 $bts = BTS;
 $ppe = REALISATIONS;
+$e4 = EPREUVEE4;
+$e5 = EPREUVEE5;
 $cv = CV;
 $contact = CONTACT;
 $watch = WATCH;
