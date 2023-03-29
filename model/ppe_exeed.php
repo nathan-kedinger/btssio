@@ -44,9 +44,7 @@ require_once '../view/content/header.php';?>
                         Prise en main de divers outils Wordpress
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                <embed class="cv" src='../view/ressources/ppe/attestation_stage_exeed.pdf' width="1000" height="500" type="application/pdf" alt ="Attestation de stage Exeed">
-                <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_bts_sio.png">
+                    <embed class="cv" src='../view/ressources/ppe/attestation_stage_exeed.pdf' width="1000" height="500" type="application/pdf" alt ="Attestation de stage Exeed">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/wordpress.png">Création de site directement dans l'hébergeur hostinger</a></li>
