@@ -108,11 +108,18 @@ require_once '../view/content/header.php';?>
         </article>
         <article>
         <h3>Stage dans l'entreprise Exeed</h3>
-                <a href="ppe_serveur.php"><img class="realisation"  src=""></a><br>
+                <a href="ppe_exeed.php"><img class="realisation"  src=""></a><br>
                 <p>Réalisation d'un stage en entreprise. participation à différents projet. Réalisation de rédaction,
                     déploiement sur serveur hostinger et utilisation de divers widgets Wordpress.
                 </p><br>
                 <button><a href="ppe_exeed.php">Documentation épeuve E4</a></button>
+        </article>
+        <h3>Stage dans l'entreprise HISSE Olivia</h3>
+                <a href="ppe_hisse_olivia.php"><img class="realisation"  src=""></a><br>
+                <p>Réalisation d'un stage en entreprise. Support au professionel. Réalisation de tests unitaires,
+                    réalisation de revue de code.
+                </p><br>
+                <button><a href="ppe_hisse_olivia.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Site Web réalisé sur CMS</h3>
