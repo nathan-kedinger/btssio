@@ -114,6 +114,7 @@ require_once '../view/content/header.php';?>
                 </p><br>
                 <button><a href="ppe_exeed.php">Documentation épeuve E4</a></button>
         </article>
+        <article>
         <h3>Stage dans l'entreprise HISSE Olivia</h3>
                 <a href="ppe_hisse_olivia.php"><img class="realisation"  src=""></a><br>
                 <p>Réalisation d'un stage en entreprise. Support au professionel. Réalisation de tests unitaires,
