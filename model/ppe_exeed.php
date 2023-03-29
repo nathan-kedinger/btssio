@@ -45,7 +45,14 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
                 <embed class="cv" src='../view/ressources/ppe/attestation_stage_exeed.pdf' width="1000" height="500" type="application/pdf" alt ="Attestation de stage Exeed">
-        </article>
+                <h3>Tableau Récapitulatif</h3>  
+                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_bts_sio.png">
+                <h3>Liens des productions</h3>
+                    <ul>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/wordpress.png">Création de site directement dans l'hébergeur hostinger</a></li>
+                        <li><a class="lien_ppe" href="../view/ressources/ppe/wordpressCE.png">Exemple de première page d'un site wordpress avec l'outil WYSIWYG</a></li>
+                    </ul>
+            </article>
 
     </main>
 
