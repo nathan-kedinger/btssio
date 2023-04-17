@@ -51,7 +51,7 @@ require_once '../view/content/header.php';?>
                     -	Dépôt du projet sur github<br>
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_offo.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_offo.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/bdd_firebase.png">Capture d'écran Firebase</a></li>
