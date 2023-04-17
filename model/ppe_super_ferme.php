@@ -50,7 +50,7 @@ require_once '../view/content/header.php';?>
                     Ce site m’a parmi de maitriser la bibliothèque PHP Symfony 6 ainsi que la bibliothèque de mise en forme Bootstrap. J’ai pu constater l’accélération énorme et la propreté du code apporté par la bibliothèque Symfony. Cette réalisation m’a également permis de bien comprendre le fonctionnement MVC qui participe grandement à la clarté et la maintenabilité du code, ainsi qu’à sa sécurité.
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_super_ferme.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_super_ferme.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/cahier_des_charges_superferme.png">Cahier des charges client</a></li>

@@ -50,7 +50,7 @@ Ce site est mon deuxième projet de BTS. Il m’a permis de consolider mes bases
                     -	Gestion du responsive.<br>
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_lbtMenuiserie.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_lbtMenuiserie.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/mcd_lbtMenuiserie.png">Diagramme MCD</a></li>
