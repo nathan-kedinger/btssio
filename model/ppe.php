@@ -30,7 +30,7 @@ require_once '../view/content/header.php';?>
         </article>
         <article>
             <h3>Application Web Vooov</h3>
-                <a href="ppe_vooov_web.php"><img class="realisation"  src="../view/ressources/ppe/screen_vooov_web.jpg"></a><br>
+                <a href="https://vooov.fr"><img class="realisation"  src="../view/ressources/images_realisations/screen_vooov_web.png"></a><br>
                 <p>Cette application a pour but de répondre à une demande client d’un site de voix-off. 
                     Ce projet est l'image de l'application mobile Vooov. Elle fonctionne comme un réseau social vocal. Il est possible de communiquer par 
                     message entre les utilisateurs, de se connecter et d'écouter les enregistrements des autres utilisateurs.
