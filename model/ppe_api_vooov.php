@@ -53,7 +53,7 @@ require_once '../view/content/header.php';?>
                     -	Base de données.
                      </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_api.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_api.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/mcd_api.png">Diagramme MCD</a></li>

@@ -29,6 +29,15 @@ require_once '../view/content/header.php';?>
                 <button><a href="ppe_vooov.php">Documentation épeuve E4</a></button>
         </article>
         <article>
+            <h3>Application Web Vooov</h3>
+                <a href="ppe_vooov_web.php"><img class="realisation"  src="../view/ressources/ppe/screen_vooov_web.jpg"></a><br>
+                <p>Cette application a pour but de répondre à une demande client d’un site de voix-off. 
+                    Ce projet est l'image de l'application mobile Vooov. Elle fonctionne comme un réseau social vocal. Il est possible de communiquer par 
+                    message entre les utilisateurs, de se connecter et d'écouter les enregistrements des autres utilisateurs.
+                </p><br>
+                <button><a href="ppe_vooov_web.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
             <h3>API Vooov</h3>
                 <a href="ppe_api_vooov.php"><img class="realisation"  src=""></a><br>
                 <p>Dans le cadre des PPE nous avons eu pour consigne de réaliser un groupe d’applications comprenant un site web, 
@@ -59,6 +68,15 @@ require_once '../view/content/header.php';?>
                     pour l’hébergement des applications Vooov.
                 </p><br>
                 <button><a href="ppe_serveur.php">Documentation épeuve E4</a></button>
+        </article>
+        <article>
+            <h3>Mise en place d'une machine virtuelle et utilisation de GLPI</h3>
+                <a href="ppe_glpi.php"><img class="realisation"  src=""></a><br>
+                <p>Installation d'une machine virtuelle Ubuntu avec l'outil virtualBox de Oracle. Installation de 
+                    GLPI sur la machine virtuelle en ligne de commande. Création de différents utilisateurs avec
+                    différents niveaux d'acréditation. Ouverture de ticket de différentes gravité. Résolution de tickets.
+                </p><br>
+                <button><a href="ppe_glpi.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Application Android test CRUD pour l'API Vooov</h3>
@@ -126,8 +144,8 @@ require_once '../view/content/header.php';?>
             <h3>Site Web réalisé sur CMS</h3>
                 <a href="https://nathankedinger8.wixsite.com/website"><img class="realisation"  src="../view/ressources/images_realisations/wix.png"></a><br>
                 <p>voici le premier <a href="https://nathankedinger8.wixsite.com/website">Site</a> web que j'ai réalisé, via le cms WIX. Ce site était principalement basé
-                sur l'UX. Le but étant de donner de la visibilité à mes produits, j'ai choisi une stratégie très visuel, avec des images colorés et immersives. Cependant le support de ces 
-                ces visuels se devait d'être épuré. l'objectif étant afin de ne pas perturber l'oeuil du potentiel client..
+                sur l'UX. Le but étant de donner de la visibilité à mes produits, j'ai choisi une stratégie très visuel, avec des images colorées et immersives. Cependant le support de ces 
+                visuels se devait d'être épuré. l'objectif étant afin de ne pas perturber l'oeuil du potentiel client.
                 Le design du site permet d'accéder rapidement aux informations. Un client recherchant un menuisier trouve rapidement ce qu'il cherche.
                 Un effort a particulièrement été apporté au référencement lors de la mise en place du site.
                 J'ai aujourd'hui perdu le domaine, puisque je n'en ai plus besoin dans ma nouvelle activité.<br><br>

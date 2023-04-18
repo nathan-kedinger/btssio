@@ -44,7 +44,7 @@ require_once '../view/content/header.php';?>
 
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_serveur.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_serveur.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="../view/ressources/ppe/terminal_putty.png">Catpure d'écran PuTTY</a></li>
