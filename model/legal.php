@@ -2,6 +2,7 @@
 require_once '../view/front_const/header_const.php';
 $pageTitle = $legal;
 require_once '../view/content/head.php';
+require_once '../view/content/header.php';
 ?>
 
 <body>
