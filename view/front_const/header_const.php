@@ -1,5 +1,6 @@
 <?php
 define('HEADER_TITLE', 'KEDINGER NATHAN');
+define('LEGAL', 'LEGAL');
 define('HOMEPAGE', 'ACCUEIL');
 define('BTS', 'BTS-SIO');
 define('EPREUVEE5', 'EPREUVE E5');
@@ -21,6 +22,7 @@ define('LOGOUT','DECONNEXION');
 
 
 $headerTitle = HEADER_TITLE;
+$legal = LEGAL;
 $homepage = HOMEPAGE;
 $bts = BTS;
 $ppe = REALISATIONS;
