@@ -44,7 +44,7 @@ require_once '../view/content/header.php';?>
                     Déploiement de site sur serveur VPS.
                     Création d'un back-office.
                     Création d'un espace authentification.
-                    
+
                     </p>
                 <h3>Les connaissance clé débloquées par ce projet sont :</h3>  
                     <p>
@@ -52,19 +52,6 @@ require_once '../view/content/header.php';?>
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
                     <embed class="cv" src="../view/ressources/tableau_ppe/tab_vooov_web.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
-                <h3>Liens des productions</h3>
-                    <ul>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/cahier_des_charges_superferme.png">Cahier des charges client</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/meta_donnees_super_ferme.png">Exemple de meta données de référencement</a></li>
-                        <li><a class="lien_ppe" href="https://la-super-ferme.fr/">Preuve de déploiement du site</a></li>
-                        <li><a class="lien_ppe" href="https://la-super-ferme.fr/nous-contacter">Lien vers un formulaire de contact</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/backoffice_super_ferme.png">Capture d'écran du Backoffice</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/réservation_paniers.png">Page de réservation de paniers</a></li>
-                        <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/super_ferme">Lien vers le repository GitHub du site</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/confirmation_newsletter.png">Capture d'écran de confirmation à l'inscription à une newsletter</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/certificat_symfony.jpg">Certificat Symfony Udemy</a></li>
-                        <li><a class="lien_ppe" href="../view/ressources/ppe/post_linkedin.png">Post Linkedin de partage du site de la super ferme</a></li>
-                    </ul>
         </article>
 
     </main>

@@ -58,7 +58,7 @@ require_once '../view/content/header.php';?>
                     -	Base de données.
                      </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <img class="tableau_ppe" src="../view/ressources/tableau_ppe/tab_test_api.png">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_test_api.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
                 <h3>Liens des productions</h3>
                     <ul>
                         <li><a class="lien_ppe" href="https://github.com/nathan-kedinger/TestApi"><p>Lien GitHub</p></a></li>
