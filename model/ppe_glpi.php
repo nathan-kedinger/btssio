@@ -45,7 +45,7 @@ require_once '../view/content/header.php';?>
 
                     </p>
                 <h3>Tableau Récapitulatif</h3>  
-                    <embed class="cv" src="../view/ressources/tableau_ppe/glpi.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
+                    <embed class="cv" src="../view/ressources/tableau_ppe/tab_glpi.pdf" width="1000" height="1000" type="application/pdf" alt ="Grille des réalisations">
 
         </article>
 
