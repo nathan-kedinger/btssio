@@ -98,7 +98,7 @@ require_once '../view/content/header.php';?>
                     Elle fait usage de l’API Firebase. Sa construction a été interrompue au profit d’une 
                     application possédant son API propre.
                 </p><br>
-                <button><a href="ppe_super_ferme.php">Documentation épeuve E4</a></button>
+                <button><a href="ppe_offo.php">Documentation épeuve E4</a></button>
         </article>
         <article>
             <h3>Site Web Présentation et Portfolio du BTS SIO</h3>
